@@ -25,7 +25,7 @@ SECRET_KEY = '=2f7d6+#h##+9v!sbwop%9+^dt&32#zv)w@%h0$$sl#*pd5k#i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['redreed.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
